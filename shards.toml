@@ -1,0 +1,18 @@
+[[shards]]
+
+name = "stark"
+idx = 0
+address = "localhost:8080"
+
+[[shards]]
+
+name = "jarvis"
+idx = 0
+address = "localhost:8080"
+
+[[shards]]
+
+name = "yoda"
+idx = 0
+address = "localhost:8080"
+
